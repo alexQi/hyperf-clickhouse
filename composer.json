@@ -15,7 +15,7 @@
         }
     ],
     "require": {
-        "the-tinderbox/clickhouse-builder": "^5.3"
+        "the-tinderbox/clickhouse-builder": "dev-master"
     },
     "config": {
         "sort-packages": true
