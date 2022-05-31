@@ -10,6 +10,11 @@
     },
     "authors": [
         {
+            "name": "alex",
+            "email": "alex.qiubo@qq.com",
+            "role": "translator"
+        },
+        {
             "name": "Abdul Hafidz A",
             "email": "aditans88@gmail.com"
         }
@@ -20,6 +25,8 @@
     "config": {
         "sort-packages": true
     },
+    "minimum-stability": "stable",
+    "prefer-stable": true,
     "extra": {
         "branch-alias": {
             "dev-master": "1.0-dev"
